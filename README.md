@@ -149,6 +149,9 @@ A custom font that converts any written word into leetspeak in real time!
 
 Trying to participate in hackathons to maybe get a chance to travel the world for free ;)
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=53714&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" width="500">
+</p>
 
 
 <div align="center">
@@ -159,7 +162,7 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 <img src="https://img.shields.io/badge/Discord-be__akverse-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://github.com/be-keb">
-<img src="https://img.shields.io/badge/GitHub-be--akverse-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-be--keb-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
@@ -188,12 +191,6 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </div>
-<h2 align="center">HackTime Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=53714&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" width="500">
-</p>
-
 
 <h2 align="center">GitHub Stats</h2>
 
