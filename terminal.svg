@@ -1,25 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%">
   <defs>
-    <!-- Window chrome -->
+    
     <linearGradient id="winBg" x1="0" y1="0" x2="0" y2="520">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#010409"/>
     </linearGradient>
 
-    <!-- Sky -->
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="400">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="60%" stop-color="#010409"/>
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
-    <!-- Floor glow -->
     <linearGradient id="floorGrad" x1="384" y1="280" x2="384" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#238636" stop-opacity="0"/>
       <stop offset="100%" stop-color="#238636" stop-opacity="0.2"/>
     </linearGradient>
 
-    <!-- Neon glow for text -->
     <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feFlood flood-color="#3fb950" result="color"/>
@@ -40,13 +37,11 @@
       </feMerge>
     </filter>
 
-    <!-- Vignette -->
     <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
       <stop offset="50%" stop-color="#000" stop-opacity="0"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0.7"/>
     </radialGradient>
 
-    <!-- Building clips -->
     <clipPath id="b1"><polygon points="60,340 100,340 100,160 80,140 60,160"/></clipPath>
     <clipPath id="b2"><polygon points="110,340 170,340 170,200 150,180 130,200 130,180 110,200"/></clipPath>
     <clipPath id="b3"><polygon points="180,340 260,340 260,120 240,100 220,120 200,100 180,120"/></clipPath>
@@ -122,23 +117,18 @@
     </style>
   </defs>
 
-  <!-- Window Frame -->
   <rect x="0" y="0" width="800" height="520" rx="16" fill="url(#winBg)" stroke="#30363d" stroke-width="2"/>
   <rect x="16" y="56" width="768" height="448" rx="12" fill="#0d1117"/>
 
-  <!-- Title Bar -->
   <circle cx="40" cy="32" r="7" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5"/>
   <circle cx="64" cy="32" r="7" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5"/>
   <circle cx="88" cy="32" r="7" fill="#27c93f" stroke="#1aab29" stroke-width="0.5"/>
-  <text x="116" y="38" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="14" fill="#8b949e" font-weight="500">root@be-akverse — ~</text>
+  <text x="116" y="38" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="14" fill="#8b949e" font-weight="500">root@be-keb — ~</text>
   <line x1="16" y1="52" x2="784" y2="52" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Content Scene -->
   <g transform="translate(16, 56)">
-    <!-- Sky Background -->
     <rect x="0" y="0" width="768" height="420" fill="url(#sky)"/>
 
-    <!-- Stars -->
     <g fill="#c9d1d9">
       <circle cx="100" cy="50" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
       <circle cx="250" cy="30" r="0.8" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
@@ -157,7 +147,6 @@
       <circle cx="150" cy="85" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
     </g>
 
-    <!-- Matrix Rain (very subtle, behind text) -->
     <g font-family="monospace" font-size="11" fill="#238636" opacity="0.2">
       <text x="50" y="0" class="rain1"><tspan x="50" dy="0">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan></text>
       <text x="130" y="0" class="rain3" style="animation-delay:1s"><tspan x="130" dy="0">1</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">1</tspan><tspan x="130" dy="14">0</tspan></text>
@@ -171,7 +160,6 @@
       <text x="730" y="0" class="rain3" style="animation-delay:1.3s"><tspan x="730" dy="0">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">1</tspan></text>
     </g>
 
-    <!-- Grid Floor -->
     <g stroke="#238636" stroke-width="0.5" opacity="0.12">
       <line x1="384" y1="240" x2="0" y2="420" class="grid"/>
       <line x1="384" y1="240" x2="96" y2="420" class="grid" style="animation-delay:0.2s"/>
@@ -190,7 +178,6 @@
 
     <rect x="0" y="240" width="768" height="180" fill="url(#floorGrad)"/>
 
-    <!-- Building Silhouettes (very dark, background only) -->
     <polygon points="60,340 100,340 100,160 80,140 60,160" fill="#010409"/>
     <polygon points="110,340 170,340 170,200 150,180 130,200 130,180 110,200" fill="#010409"/>
     <polygon points="180,340 260,340 260,120 240,100 220,120 200,100 180,120" fill="#010409"/>
@@ -201,7 +188,6 @@
     <polygon points="560,340 620,340 620,150 600,130 580,150 580,130 560,130" fill="#010409"/>
     <polygon points="630,340 700,340 700,180 680,160 660,180 660,160 630,160" fill="#010409"/>
 
-    <!-- Building Code Textures (subtle) -->
     <g clip-path="url(#b1)">
       <text class="bt1" x="60" y="160">01001 10101</text>
       <text class="bt2" x="60" y="175">11010 01101</text>
@@ -249,7 +235,7 @@
       <text class="bt2" x="410" y="320">  sk-live-</text>
     </g>
     <g clip-path="url(#b9)">
-      <text class="bt1" x="630" y="180"># BeakVerse</text>
+      <text class="bt1" x="630" y="180"># BeKeB</text>
       <text class="bt2" x="630" y="195"># --------</text>
       <text class="bt1" x="630" y="210"># Offensive</text>
       <text class="bt2" x="630" y="225"># Security</text>
@@ -262,7 +248,6 @@
       <text class="bt1" x="630" y="330"># 15 y/o</text>
     </g>
 
-    <!-- Building Window Lights (subtle orange) -->
     <g fill="#f0883e">
       <rect x="70" y="170" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></rect>
       <rect x="85" y="190" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></rect>
@@ -280,85 +265,62 @@
       <rect x="660" y="240" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" repeatCount="indefinite"/></rect>
     </g>
 
-    <!-- Decorative horizontal accent line -->
     <line x1="16" y1="72" x2="752" y2="72" stroke="#30363d" stroke-width="1"/>
     <line x1="16" y1="72" x2="200" y2="72" stroke="#238636" stroke-width="1" class="pulse-line"/>
 
-    <!-- MAIN TERMINAL CONTENT -->
     <g font-family="'SF Mono', 'Fira Code', 'Courier New', monospace">
-      <!-- Prompt line -->
+      
       <text x="24" y="100" font-size="15" fill="#8b949e">
-        <tspan fill="#3fb950">$</tspan>
+        <tspan fill="#3fb950">yahya@be-keb:~$</tspan>
         <tspan dx="8" fill="#c9d1d9">sudo whoami</tspan>
       </text>
 
-      <!-- Response: root -->
-      <text x="24" y="122" font-size="15" fill="#3fb950" filter="url(#textGlow)">root</text>
-
-      <!-- Spacer -->
-      <!-- Bio line -->
       <text x="24" y="158" font-size="14" fill="#b4bcca" opacity="0.95">
-        A 15 year old CyberSec student building projects to earn my way around the world
+        A CyberSec student building projects to earn my way around the world
       </text>
 
-      <!-- Decorative separator -->
       <line x1="24" y1="172" x2="300" y2="172" stroke="#30363d" stroke-width="1"/>
       <line x1="24" y1="172" x2="80" y2="172" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
-
-      <!-- Loading toolkit -->
+      
       <text x="24" y="198" font-size="14" fill="#58a6ff" filter="url(#blueGlow)">
-        &gt; Loading toolkit...
-      </text>
-      <text x="24" y="220" font-size="14" fill="#3fb950">
-        <tspan>[████████████████</tspan><tspan fill="#30363d">░░</tspan><tspan fill="#3fb950">] 87%</tspan>
-      </text>
+        &gt; Languages learnt...</text>
       <text x="24" y="242" font-size="13" fill="#8b949e">
         Languages: <tspan fill="#c9d1d9">Python, C, HTML, CSS, JavaScript</tspan>
       </text>
       <text x="24" y="262" font-size="13" fill="#8b949e">
-        Focus: <tspan fill="#c9d1d9">Building | Coding | Breaking</tspan>
+        Focus: <tspan fill="#c9d1d9">Win a Hackathon</tspan>
       </text>
-
-      <!-- Decorative separator -->
+      
       <line x1="24" y1="278" x2="300" y2="278" stroke="#30363d" stroke-width="1"/>
       <line x1="24" y1="278" x2="80" y2="278" stroke="#f0883e" stroke-width="1" opacity="0.6"/>
 
-      <!-- Active missions -->
       <text x="24" y="304" font-size="14" fill="#58a6ff" filter="url(#blueGlow)">
         &gt; Active missions:
       </text>
       <text x="24" y="326" font-size="13" fill="#c9d1d9">
-        <tspan fill="#3fb950">  ├──</tspan> Attend one hackathon
+        <tspan fill="#3fb950">  ├──</tspan> Attend one hackathon (irl)
       </text>
       <text x="24" y="346" font-size="13" fill="#c9d1d9">
         <tspan fill="#3fb950">  ├──</tspan> Travel to a foreign country (for free)
       </text>
-      <text x="24" y="366" font-size="13" fill="#c9d1d9">
-        <tspan fill="#3fb950">  └──</tspan> Become a Red Teamer!
-      </text>
 
-      <!-- Blinking cursor at end -->
       <rect x="24" y="390" width="8" height="16" class="cursor"/>
     </g>
 
-    <!-- Scanlines (subtle) -->
     <g stroke="#238636" stroke-width="0.5" opacity="0.04">
       <line x1="0" y1="0" x2="768" y2="0" class="scanline"/>
       <line x1="0" y1="0" x2="768" y2="0" class="scanline" style="animation-delay:3.3s"/>
       <line x1="0" y1="0" x2="768" y2="0" class="scanline" style="animation-delay:6.6s"/>
     </g>
 
-    <!-- Vignette overlay -->
     <rect x="0" y="0" width="768" height="420" fill="url(#vignette)" pointer-events="none"/>
 
-    <!-- Ground line -->
     <line x1="0" y1="420" x2="768" y2="420" stroke="#238636" stroke-width="1" opacity="0.25"/>
 
-    <!-- Bottom subtle accent -->
     <rect x="0" y="420" width="768" height="28" fill="#0d1117" opacity="0.8"/>
     <line x1="0" y1="420" x2="768" y2="420" stroke="#30363d" stroke-width="1"/>
     <text x="24" y="440" font-family="monospace" font-size="11" fill="#484f58">
-      be-akverse v1.0.0 — <tspan fill="#3fb950">●</tspan> system operational
+      be-keb v1.0.1
     </text>
 
   </g>
