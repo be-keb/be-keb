@@ -37,7 +37,7 @@ My Portfolio :)
 <b>
 
 
-<a href="https://github.com/be-akverse/cybersec-resources">
+<a href="https://github.com/be-keb/cybersec-resources">
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
@@ -58,7 +58,7 @@ A collection of cybersecurity resources for BLUE AND RED TEAM!
 <b>
 
 
-<a href="https://github.com/be-akverse/ASCII-Vision">
+<a href="https://github.com/be-keb/ASCII-Vision">
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
