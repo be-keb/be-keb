@@ -1,116 +1,228 @@
 <div align="center">
+<h1>be-akverse</h1>
+<p>Code | Break | Build</p>
 
-<img src="./terminal.svg" alt="Yahya's terminal intro" width="100%" />
-
-# Hi, I'm Yahya 👋
-
-**Cybersecurity Student · Pentester-in-training · Builder of things that occasionally work on the first try**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-beakportfolio.netlify.app-39d98a?style=for-the-badge&logo=netlify&logoColor=white)](https://beakportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-be--keb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/be-keb)
-![Profile Views](https://komarev.com/ghpvc/?username=be-keb&style=for-the-badge&color=39d98a&label=PROFILE+VIEWS)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Offensive+Cyber+Security+Enthusiast;Building+Things+That+Break+Things" alt="Typing Animation" />
 </div>
 
----
 
-### 👤 About Me
-
-I'm a cybersecurity student who'd rather break a system than read about how it *could* theoretically be broken. I spend my time doing CTFs, poking at web apps, and building small tools that solve problems I probably created for myself. I build a lot of my side projects through **Hack Club**, and I'm always down for the next hackathon.
-
-- 🔭 **Currently prepping for:** NASCON hackathon
-- 🛡️ **Focus areas:** Penetration testing, Web Exploitation, OSINT
-- 🌱 **Always learning:** new CTF techniques, new ways to break my own code
-- ⚡ **Fun fact:** my Docker containers have seen things
-
----
-
-### 🧰 Tech & Tools
+<h2 align="center">Projects</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,python,html,css,docker,git,linux,bash" alt="skills" />
-</div>
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-black?style=flat-square&logo=hackthebox&logoColor=39d98a)
-![OSINT](https://img.shields.io/badge/OSINT-black?style=flat-square&logo=google&logoColor=39d98a)
-
-</div>
-
----
-
-### 🚀 Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="50%" valign="top">
 
-**🛡️ [SentiVex](https://github.com/be-keb/SentiVex)**
-<br/><sub>AI Safety</sub>
+<b>
 
-A lightweight firewall that sits between AI models and users — checks every prompt against the model's policy, blocks anything out of bounds, fires an alert to Discord, and logs the event to a database.
 
-`Python` `SQLite3` `Lightweight` `Open Source`
+<a href="https://github.com/be-akverse/PortFolio">
+<img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
+</a>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+
+My Portfolio :)
+
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="50%" valign="top">
 
-**🖥️ [Personal Portfolio](https://github.com/be-keb/portfolio)**
-<br/><sub>Frontend Development</sub>
+<b>
 
-Interactive portfolio site built with React, Vite, and Material UI — animated card navigation, fully responsive layout, and a working contact form.
 
-`React` `Vite` `Material UI` `GitHub Pages` `Web3Forms`
+<a href="https://github.com/be-akverse/cybersec-resources">
+<img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
+</a>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+
+A collection of cybersecurity resources for BLUE AND RED TEAM!
+
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
 
-**🤖 [AUI — Agentic User Interface](https://github.com/be-keb/AUI)**
-<br/><sub>Programming</sub>
+<b>
 
-A GUI built for AI agents that browse the web — designed to boost efficiency and minimize token usage during agent browsing sessions.
 
-`JavaScript` `JSON`
+<a href="https://github.com/be-akverse/ASCII-Vision">
+<img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
+</a>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+
+A tool that converts live camera feed into ASCII Art! (downloadable in .txt form)
+
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<b>
+
+
+<a href="https://github.com/be-akverse/conspiracy-index">
+<img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
+</a>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+
+A list of some conspiracy theories you can edit and add more to!
+
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<b>
+
+
+<a href="https://github.com/be-akverse/atbash.git">
+<img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
+</a>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Calligrapher-8B5CF6?style=flat-square&logo=font-awesome&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+
+A custom font that converts every written word into Atbash!
+
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<b>
+
+
+<a href="https://github.com/be-akverse/LeetSpeak.git">
+<img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
+</a>
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Calligrapher-8B5CF6?style=flat-square&logo=font-awesome&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+A custom font that converts any written word into leetspeak in real time!
+
 
 </td>
 </tr>
 </table>
-
-> Repo links above are best-guess based on project names — if a link 404s, swap in the real URL from your GitHub.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=be-keb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=39d98a&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-keb&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=39d98a&text_color=c9d1d9" alt="Top Langs" height="165"/>
 </div>
 
+
+<h2 align="center">Hack Club</h2>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=be-keb&theme=dark&hide_border=true&background=0a0e14&ring=39d98a&fire=ffbd2e&currStreakLabel=39d98a" alt="GitHub Streak" />
+<a href="https://hackclub.com">
+<img src="https://img.shields.io/badge/Hack_Club_Member-EC3750?style=for-the-badge&logoColor=white" />
+</a>
+
+
+Trying to participate in hackathons to maybe get a chance to travel the world for free ;)
 </div>
 
----
-
-### 🏁 Currently Compiling
-
-```
-[  OK  ] curiosity ......... online
-[  OK  ] caffeine .......... critical
-[ WARN ] sleep schedule .... not found
-[ INFO ] status ............ prepping exploits for NASCON
-```
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=be-akverse&color=238636&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
-**Thanks for stopping by — now go check my commits before I force-push over the evidence.**
 
+<a href="https://discord.com/users/be_akverse">
+<img src="https://img.shields.io/badge/Discord-be__akverse-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://github.com/be-akverse">
+<img src="https://img.shields.io/badge/GitHub-be--akverse-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+
+<h2 align="center">Languages & Technologies</h2>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</div>
+
+
+<h2 align="center">Currently Learning</h2>
+
+<div align="center">
+<pre>
+Offensive Cyber Security with Python
+AI-Powered Security Automation
+Ethical Hacking & Penetration Testing
+Global Hackathon Circuit
+</pre>
+</div>
+
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=be-akverse&theme=github-dark&hide_border=true&background=0D1117&stroke=238636&ring=238636&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=be-akverse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&ring_color=238636" alt="GitHub Stats" />
+
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=be-akverse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+
+<h2 align="center">GitHub Trophies</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=be-akverse&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+
+<div align="center">
+<b>
+
+
+<i>
 </div>
