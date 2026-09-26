@@ -1,7 +1,7 @@
 <div align="center">
 <h1>be-keb</h1>
 <p align="center">
-  <img src="terminal.svg" width="100%" alt="be-akverse terminal"/>
+  <img src="terminal.svg" width="100%" alt="be-keb terminal"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Offensive+Cyber+Security+Enthusiast;Building+Things+That+Break+Things" alt="Typing Animation" />
