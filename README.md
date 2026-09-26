@@ -203,10 +203,10 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 </div>
 
 
-<h2 align="center">GitHub Trophies</h2>
+<h2 align="center">HackTime Stats</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=be-keb&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=53714&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 </div>
 
 
