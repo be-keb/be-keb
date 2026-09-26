@@ -188,6 +188,11 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </div>
+<h2 align="center">HackTime Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=53714&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" width="500">
+</p>
 
 
 <h2 align="center">GitHub Stats</h2>
@@ -201,14 +206,6 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=be-keb&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
-
-
-<h2 align="center">HackTime Stats</h2>
-
-<div align="center">
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=53714&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-</div>
-
 
 <div align="center">
 <b>
