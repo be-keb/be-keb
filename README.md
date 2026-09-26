@@ -1,6 +1,5 @@
 <div align="center">
-<h1>be-akverse</h1>
-<p>Code | Break | Build</p>
+<h1>be-keb</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Offensive+Cyber+Security+Enthusiast;Building+Things+That+Break+Things" alt="Typing Animation" />
 </div>
@@ -150,13 +149,13 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=be-akverse&color=238636&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=be-keb&color=238636&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 
 <a href="https://discord.com/users/be_akverse">
 <img src="https://img.shields.io/badge/Discord-be__akverse-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://github.com/be-akverse">
+<a href="https://github.com/be-keb">
 <img src="https://img.shields.io/badge/GitHub-be--akverse-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
@@ -175,7 +174,7 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
 
-
+<br>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -188,35 +187,23 @@ Trying to participate in hackathons to maybe get a chance to travel the world fo
 </div>
 
 
-<h2 align="center">Currently Learning</h2>
-
-<div align="center">
-<pre>
-Offensive Cyber Security with Python
-AI-Powered Security Automation
-Ethical Hacking & Penetration Testing
-Global Hackathon Circuit
-</pre>
-</div>
-
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=be-akverse&theme=github-dark&hide_border=true&background=0D1117&stroke=238636&ring=238636&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=be-keb&theme=github-dark&hide_border=true&background=0D1117&stroke=238636&ring=238636&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=be-akverse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&ring_color=238636" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=be-keb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&ring_color=238636" alt="GitHub Stats" />
 
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=be-akverse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=be-keb&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 
 <h2 align="center">GitHub Trophies</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=be-akverse&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=be-keb&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 
