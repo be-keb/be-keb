@@ -1,22 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1NTIxM2Q5OS1mNmE0LTRjN2QtYTgzZS0xZWI1NDA5MTQ3NmIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNH85C6UwYQjIypt98EixqwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphMWU5YjI2My1mOGMyLTQwMGYtYmI3Ni0zMDQwMDk5YjZjYWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNotbkCco0IoaRKLNS6UoJ0UQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggs7lCsEbwvgt4Tkz0qRErm2GZHk5LJA45e9hsroc9xVqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMbRtp/a/+aIM9tnACW5xpsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCwJdXDbAmq30+G0Ou0talxtWheTISdqxXmgef83/hNt2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiKZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjU1MjEzZDk5LWY2YTQtNGM3ZC1hODNlLTFlYjU0MDkxNDc2Yi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRjNDE5YjI4LTc4YjgtNGM5MS1hZTJhLWRkMDdlYWU0NmYwZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCzuUKwRvC+C3hOTPSpESubYZkeTkskDjl72Gyuhz3FWqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggDQTOscFOOGBOq5pk6Jc7BG6B38NHRl8bJt4UsQs3/gmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggc5sXLzB/ST66VS6MEonXLXQoiWJA3E2V366DeGOtpsZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEuEbpbLwvWFYSTXQXHUkykd+JtCUc+b82gm0a/dlpsvkaxLSwC8sTPV0klt3n34XpKhLNnZtT1s3xNhGegwu+M=</c2pa:manifest></metadata>
   <defs>
-    
+    <!-- Window chrome -->
     <linearGradient id="winBg" x1="0" y1="0" x2="0" y2="520">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#010409"/>
     </linearGradient>
 
+    <!-- Sky -->
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="400">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="60%" stop-color="#010409"/>
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
+    <!-- Floor glow -->
     <linearGradient id="floorGrad" x1="384" y1="280" x2="384" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#238636" stop-opacity="0"/>
       <stop offset="100%" stop-color="#238636" stop-opacity="0.2"/>
     </linearGradient>
 
+    <!-- Neon glow for text -->
     <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feFlood flood-color="#3fb950" result="color"/>
@@ -37,11 +40,13 @@
       </feMerge>
     </filter>
 
+    <!-- Vignette -->
     <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
       <stop offset="50%" stop-color="#000" stop-opacity="0"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0.7"/>
     </radialGradient>
 
+    <!-- Building clips -->
     <clipPath id="b1"><polygon points="60,340 100,340 100,160 80,140 60,160"/></clipPath>
     <clipPath id="b2"><polygon points="110,340 170,340 170,200 150,180 130,200 130,180 110,200"/></clipPath>
     <clipPath id="b3"><polygon points="180,340 260,340 260,120 240,100 220,120 200,100 180,120"/></clipPath>
@@ -117,18 +122,23 @@
     </style>
   </defs>
 
+  <!-- Window Frame -->
   <rect x="0" y="0" width="800" height="520" rx="16" fill="url(#winBg)" stroke="#30363d" stroke-width="2"/>
   <rect x="16" y="56" width="768" height="448" rx="12" fill="#0d1117"/>
 
+  <!-- Title Bar -->
   <circle cx="40" cy="32" r="7" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5"/>
   <circle cx="64" cy="32" r="7" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5"/>
   <circle cx="88" cy="32" r="7" fill="#27c93f" stroke="#1aab29" stroke-width="0.5"/>
-  <text x="116" y="38" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="14" fill="#8b949e" font-weight="500">root@be-keb — ~</text>
+  <text x="116" y="38" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="14" fill="#8b949e" font-weight="500">yahya@be-akverse — ~</text>
   <line x1="16" y1="52" x2="784" y2="52" stroke="#30363d" stroke-width="1"/>
 
+  <!-- Content Scene -->
   <g transform="translate(16, 56)">
+    <!-- Sky Background -->
     <rect x="0" y="0" width="768" height="420" fill="url(#sky)"/>
 
+    <!-- Stars -->
     <g fill="#c9d1d9">
       <circle cx="100" cy="50" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
       <circle cx="250" cy="30" r="0.8" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
@@ -147,6 +157,7 @@
       <circle cx="150" cy="85" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
     </g>
 
+    <!-- Matrix Rain (very subtle, behind text) -->
     <g font-family="monospace" font-size="11" fill="#238636" opacity="0.2">
       <text x="50" y="0" class="rain1"><tspan x="50" dy="0">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan></text>
       <text x="130" y="0" class="rain3" style="animation-delay:1s"><tspan x="130" dy="0">1</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">1</tspan><tspan x="130" dy="14">0</tspan></text>
@@ -160,6 +171,7 @@
       <text x="730" y="0" class="rain3" style="animation-delay:1.3s"><tspan x="730" dy="0">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">1</tspan></text>
     </g>
 
+    <!-- Grid Floor -->
     <g stroke="#238636" stroke-width="0.5" opacity="0.12">
       <line x1="384" y1="240" x2="0" y2="420" class="grid"/>
       <line x1="384" y1="240" x2="96" y2="420" class="grid" style="animation-delay:0.2s"/>
@@ -178,6 +190,7 @@
 
     <rect x="0" y="240" width="768" height="180" fill="url(#floorGrad)"/>
 
+    <!-- Building Silhouettes (very dark, background only) -->
     <polygon points="60,340 100,340 100,160 80,140 60,160" fill="#010409"/>
     <polygon points="110,340 170,340 170,200 150,180 130,200 130,180 110,200" fill="#010409"/>
     <polygon points="180,340 260,340 260,120 240,100 220,120 200,100 180,120" fill="#010409"/>
@@ -188,6 +201,7 @@
     <polygon points="560,340 620,340 620,150 600,130 580,150 580,130 560,130" fill="#010409"/>
     <polygon points="630,340 700,340 700,180 680,160 660,180 660,160 630,160" fill="#010409"/>
 
+    <!-- Building Code Textures (subtle) -->
     <g clip-path="url(#b1)">
       <text class="bt1" x="60" y="160">01001 10101</text>
       <text class="bt2" x="60" y="175">11010 01101</text>
@@ -235,7 +249,7 @@
       <text class="bt2" x="410" y="320">  sk-live-</text>
     </g>
     <g clip-path="url(#b9)">
-      <text class="bt1" x="630" y="180"># BeKeB</text>
+      <text class="bt1" x="630" y="180"># BeakVerse</text>
       <text class="bt2" x="630" y="195"># --------</text>
       <text class="bt1" x="630" y="210"># Offensive</text>
       <text class="bt2" x="630" y="225"># Security</text>
@@ -245,9 +259,10 @@
       <text class="bt2" x="630" y="285"># Break</text>
       <text class="bt1" x="630" y="300"># Build</text>
       <text class="bt2" x="630" y="315"># --------</text>
-      <text class="bt1" x="630" y="330"># 15 y/o</text>
+      <text class="bt1" x="630" y="330"># CTF player</text>
     </g>
 
+    <!-- Building Window Lights (subtle orange) -->
     <g fill="#f0883e">
       <rect x="70" y="170" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></rect>
       <rect x="85" y="190" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></rect>
@@ -265,62 +280,111 @@
       <rect x="660" y="240" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" repeatCount="indefinite"/></rect>
     </g>
 
+    <!-- Decorative horizontal accent line -->
     <line x1="16" y1="72" x2="752" y2="72" stroke="#30363d" stroke-width="1"/>
     <line x1="16" y1="72" x2="200" y2="72" stroke="#238636" stroke-width="1" class="pulse-line"/>
 
+    <!-- MAIN TERMINAL CONTENT -->
     <g font-family="'SF Mono', 'Fira Code', 'Courier New', monospace">
-      
-      <text x="24" y="100" font-size="15" fill="#8b949e">
-        <tspan fill="#3fb950">yahya@be-keb:~$</tspan>
-        <tspan dx="8" fill="#c9d1d9">sudo whoami</tspan>
+
+      <!-- $ whoami -->
+      <text x="24" y="98" font-size="15" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">whoami</tspan>
+      </text>
+      <text x="24" y="116" font-size="15" fill="#3fb950" filter="url(#textGlow)">yahya</text>
+
+      <!-- $ cat about.txt -->
+      <text x="24" y="136" font-size="13" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">cat about.txt</tspan>
+      </text>
+      <text x="24" y="152" font-size="12.5" fill="#b4bcca" opacity="0.95">
+        › breaking things (with permission) to learn how to defend them.
+      </text>
+      <text x="24" y="168" font-size="12.5" fill="#b4bcca" opacity="0.95">
+        › currently deep in pentesting, CTFs &amp; one too many side projects.
       </text>
 
-      <text x="24" y="158" font-size="14" fill="#b4bcca" opacity="0.95">
-        A CyberSec student building projects to earn my way around the world
+      <!-- Decorative separator -->
+      <line x1="24" y1="180" x2="300" y2="180" stroke="#30363d" stroke-width="1"/>
+      <line x1="24" y1="180" x2="80" y2="180" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+
+      <!-- $ ls skills/ -->
+      <text x="24" y="198" font-size="13" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">ls skills/</tspan>
+      </text>
+      <text x="24" y="214" font-size="12.5" fill="#58a6ff" filter="url(#blueGlow)">
+        C  Python  Web-Exploitation  OSINT  Docker  REST-API  HTML/CSS
       </text>
 
-      <line x1="24" y1="172" x2="300" y2="172" stroke="#30363d" stroke-width="1"/>
-      <line x1="24" y1="172" x2="80" y2="172" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
-      
-      <text x="24" y="198" font-size="14" fill="#58a6ff" filter="url(#blueGlow)">
-        &gt; Languages learnt...</text>
-      <text x="24" y="242" font-size="13" fill="#8b949e">
-        Languages: <tspan fill="#c9d1d9">Python, C, HTML, CSS, JavaScript</tspan>
-      </text>
-      <text x="24" y="262" font-size="13" fill="#8b949e">
-        Focus: <tspan fill="#c9d1d9">Win a Hackathon</tspan>
-      </text>
-      
-      <line x1="24" y1="278" x2="300" y2="278" stroke="#30363d" stroke-width="1"/>
-      <line x1="24" y1="278" x2="80" y2="278" stroke="#f0883e" stroke-width="1" opacity="0.6"/>
+      <!-- Decorative separator -->
+      <line x1="24" y1="226" x2="300" y2="226" stroke="#30363d" stroke-width="1"/>
+      <line x1="24" y1="226" x2="80" y2="226" stroke="#f0883e" stroke-width="1" opacity="0.6"/>
 
-      <text x="24" y="304" font-size="14" fill="#58a6ff" filter="url(#blueGlow)">
-        &gt; Active missions:
+      <!-- $ ls projects/ -->
+      <text x="24" y="244" font-size="13" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">ls projects/</tspan>
       </text>
-      <text x="24" y="326" font-size="13" fill="#c9d1d9">
-        <tspan fill="#3fb950">  ├──</tspan> Attend one hackathon (irl)
+      <text x="24" y="260" font-size="12.5" fill="#c9d1d9">
+        <tspan fill="#3fb950">  ├──</tspan> SentiVex   — AI firewall, blocks bad prompts &amp; alerts on Discord
       </text>
-      <text x="24" y="346" font-size="13" fill="#c9d1d9">
-        <tspan fill="#3fb950">  ├──</tspan> Travel to a foreign country (for free)
+      <text x="24" y="276" font-size="12.5" fill="#c9d1d9">
+        <tspan fill="#3fb950">  ├──</tspan> AUI        — agentic browser GUI, cuts token usage for AI agents
+      </text>
+      <text x="24" y="292" font-size="12.5" fill="#c9d1d9">
+        <tspan fill="#3fb950">  └──</tspan> Portfolio  — React + Vite site, animated cards, working contact form
       </text>
 
-      <rect x="24" y="390" width="8" height="16" class="cursor"/>
+      <!-- Decorative separator -->
+      <line x1="24" y1="304" x2="300" y2="304" stroke="#30363d" stroke-width="1"/>
+      <line x1="24" y1="304" x2="80" y2="304" stroke="#3fb950" stroke-width="1" opacity="0.6"/>
+
+      <!-- $ ./next_event.sh -->
+      <text x="24" y="322" font-size="13" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">./next_event.sh</tspan>
+      </text>
+      <text x="24" y="338" font-size="12.5" fill="#ffbd2e">
+        › [UPCOMING] NASCON hackathon — compiling exploits...
+      </text>
+
+      <!-- $ echo $CONTACT -->
+      <text x="24" y="356" font-size="13" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">echo $CONTACT</tspan>
+      </text>
+      <text x="24" y="372" font-size="12.5" fill="#d2a8ff">
+        › github.com/be-keb   ·   beakportfolio.netlify.app
+      </text>
+
+      <!-- Final prompt with blinking cursor -->
+      <text x="24" y="392" font-size="14" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan class="cursor" dx="8">▮</tspan>
+      </text>
     </g>
 
+    <!-- Scanlines (subtle) -->
     <g stroke="#238636" stroke-width="0.5" opacity="0.04">
       <line x1="0" y1="0" x2="768" y2="0" class="scanline"/>
       <line x1="0" y1="0" x2="768" y2="0" class="scanline" style="animation-delay:3.3s"/>
       <line x1="0" y1="0" x2="768" y2="0" class="scanline" style="animation-delay:6.6s"/>
     </g>
 
+    <!-- Vignette overlay -->
     <rect x="0" y="0" width="768" height="420" fill="url(#vignette)" pointer-events="none"/>
 
+    <!-- Ground line -->
     <line x1="0" y1="420" x2="768" y2="420" stroke="#238636" stroke-width="1" opacity="0.25"/>
 
+    <!-- Bottom subtle accent -->
     <rect x="0" y="420" width="768" height="28" fill="#0d1117" opacity="0.8"/>
     <line x1="0" y1="420" x2="768" y2="420" stroke="#30363d" stroke-width="1"/>
     <text x="24" y="440" font-family="monospace" font-size="11" fill="#484f58">
-      be-keb v1.0.1
+      be-akverse v1.0.0 — <tspan fill="#3fb950">●</tspan> system operational
     </text>
 
   </g>
