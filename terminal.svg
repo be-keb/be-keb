@@ -1,117 +1,365 @@
-<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Consolas','SFMono-Regular',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMzgzNzE4YS1mMzNmLTQ1NjctYTQzYy01ODk0OTRhNTA4MWYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDPlb0VFwtJ5LC689O5SNrcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjZTFhYmE3Yi02MjE5LTQ3YmMtYWE1Yy0zMmVkZjQ0YmZkZWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUFp/g4RjVXNmk9gIdTZywwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggXJolu4XbGpYdifzQtglBr05ayP1c1hmJL8kgHRarE6mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaETGBWUp0ObJRN048sf3Se8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDWujn4YhkYmTJAo0aGwPl/KleTS4hdk3G9YpeQkR6VimRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMzODM3MThhLWYzM2YtNDU2Ny1hNDNjLTU4OTQ5NGE1MDgxZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY4NjQ1ZTMwLWZkMjYtNDkyNS04N2FmLWUxOTUyMDU3YzIyZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBcmiW7hdsalh2J/NC2CUGvTlrI/VzWGYkvySAdFqsTqaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggiUNd+yMtehWmk1F803iKkcR7xhTI1BkOdsP7yiuB8TiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggzxnU+NBSQjqN5/2kH3VNUU6NeY1n6brbwzqlrwkiWBt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQB+PyLO1Wr/KKmH9kPFtdyP98DL2qqXChELOoYLXbsr2YLVcO3nq+Y7zd8Rl4SfNRd2vfQC2YEeuFBYx+UK7LiA=</c2pa:manifest></metadata>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="100%">
   <defs>
-    <radialGradient id="bgGlow" cx="50%" cy="0%" r="90%">
-      <stop offset="0%" stop-color="#0d1a12"/>
-      <stop offset="55%" stop-color="#070b10"/>
-      <stop offset="100%" stop-color="#020305"/>
-    </radialGradient>
-
-    <linearGradient id="termGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0f1712"/>
-      <stop offset="100%" stop-color="#080c0a"/>
+    <!-- Window chrome -->
+    <linearGradient id="winBg" x1="0" y1="0" x2="0" y2="520">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
     </linearGradient>
 
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+    <!-- Sky -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="400">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="60%" stop-color="#010409"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <!-- Floor glow -->
+    <linearGradient id="floorGrad" x1="384" y1="280" x2="384" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#238636" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#238636" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Neon glow for text -->
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#3fb950" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="glow"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" fill="#000000" opacity="0.18"/>
-    </pattern>
+    <filter id="blueGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#58a6ff" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-    <clipPath id="termClip">
-      <rect x="40" y="60" width="820" height="460" rx="14"/>
-    </clipPath>
+    <!-- Vignette -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="50%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.7"/>
+    </radialGradient>
+
+    <!-- Building clips -->
+    <clipPath id="b1"><polygon points="60,340 100,340 100,160 80,140 60,160"/></clipPath>
+    <clipPath id="b2"><polygon points="110,340 170,340 170,200 150,180 130,200 130,180 110,200"/></clipPath>
+    <clipPath id="b3"><polygon points="180,340 260,340 260,120 240,100 220,120 200,100 180,120"/></clipPath>
+    <clipPath id="b4"><polygon points="270,340 330,340 330,170 310,150 290,170 290,150 270,170"/></clipPath>
+    <clipPath id="b5"><polygon points="340,340 400,340 400,190 380,170 360,190 360,170 340,190"/></clipPath>
+    <clipPath id="b6"><polygon points="410,340 480,340 480,140 460,120 440,140 440,120 410,140"/></clipPath>
+    <clipPath id="b7"><polygon points="490,340 550,340 550,210 530,190 510,210 510,190 490,210"/></clipPath>
+    <clipPath id="b8"><polygon points="560,340 620,340 620,150 600,130 580,150 580,130 560,150"/></clipPath>
+    <clipPath id="b9"><polygon points="630,340 700,340 700,180 680,160 660,180 660,160 630,180"/></clipPath>
+
+    <style>
+      @keyframes tw {
+        0%,100% { opacity: 0.2; }
+        50% { opacity: 1; }
+      }
+      @keyframes rain {
+        0% { transform: translateY(-420px); opacity: 0; }
+        10% { opacity: 0.4; }
+        90% { opacity: 0.4; }
+        100% { transform: translateY(420px); opacity: 0; }
+      }
+      @keyframes rain2 {
+        0% { transform: translateY(-420px); opacity: 0; }
+        5% { opacity: 0.25; }
+        95% { opacity: 0.25; }
+        100% { transform: translateY(420px); opacity: 0; }
+      }
+      @keyframes gridPulse {
+        0%,100% { stroke-opacity: 0.06; }
+        50% { stroke-opacity: 0.3; }
+      }
+      @keyframes btext1 {
+        0%,100% { fill-opacity: 0.1; }
+        50% { fill-opacity: 0.45; }
+      }
+      @keyframes btext2 {
+        0%,100% { fill-opacity: 0.08; }
+        40% { fill-opacity: 0.35; }
+        70% { fill-opacity: 0.2; }
+      }
+      @keyframes blink {
+        0%,100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes float {
+        0%,100% { transform: translateY(0); }
+        50% { transform: translateY(-4px); }
+      }
+      @keyframes scan {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(420px); }
+      }
+      @keyframes pulseLine {
+        0%,100% { stroke-opacity: 0.3; }
+        50% { stroke-opacity: 0.8; }
+      }
+      @keyframes type {
+        0% { width: 0; }
+        100% { width: 100%; }
+      }
+
+      .star { fill: #c9d1d9; }
+      .rain1 { animation: rain 4s linear infinite; }
+      .rain2 { animation: rain 6s linear infinite; }
+      .rain3 { animation: rain2 5s linear infinite; }
+      .grid { stroke: #238636; stroke-width: 1; animation: gridPulse 4s ease-in-out infinite; }
+      .bt1 { fill: #3fb950; font-family: monospace; font-size: 10px; animation: btext1 5s ease-in-out infinite; }
+      .bt2 { fill: #2ea043; font-family: monospace; font-size: 10px; animation: btext2 7s ease-in-out infinite; }
+      .scanline { stroke: #238636; stroke-width: 0.5; stroke-opacity: 0.06; animation: scan 10s linear infinite; }
+      .cursor { fill: #3fb950; animation: blink 1.1s step-end infinite; }
+      .pulse-line { stroke: #238636; animation: pulseLine 3s ease-in-out infinite; }
+      .prompt { font-family: "SF Mono", "Fira Code", "Courier New", monospace; }
+    </style>
   </defs>
 
-  <!-- background -->
-  <rect width="900" height="560" fill="url(#bgGlow)"/>
+  <!-- Window Frame -->
+  <rect x="0" y="0" width="800" height="520" rx="16" fill="url(#winBg)" stroke="#30363d" stroke-width="2"/>
+  <rect x="16" y="56" width="768" height="448" rx="12" fill="#0d1117"/>
 
-  <!-- decorative matrix rain columns (kept subtle, outside the readable text) -->
-  <g fill="#1fae63" font-size="13" opacity="0.35">
-    <text x="10" y="-40">01<animate attributeName="y" values="-40;600" dur="7s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="7s" begin="-1s" repeatCount="indefinite"/></text>
-    <text x="22" y="-80">10<animate attributeName="y" values="-80;600" dur="9s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="9s" begin="-3s" repeatCount="indefinite"/></text>
-    <text x="864" y="-60">11<animate attributeName="y" values="-60;600" dur="8s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="8s" begin="-2s" repeatCount="indefinite"/></text>
-    <text x="878" y="-100">00<animate attributeName="y" values="-100;600" dur="10s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="10s" begin="-5s" repeatCount="indefinite"/></text>
-    <text x="4" y="-120">rm -rf<animate attributeName="y" values="-120;600" dur="11s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.4;0" dur="11s" begin="-6s" repeatCount="indefinite"/></text>
-  </g>
+  <!-- Title Bar -->
+  <circle cx="40" cy="32" r="7" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5"/>
+  <circle cx="64" cy="32" r="7" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5"/>
+  <circle cx="88" cy="32" r="7" fill="#27c93f" stroke="#1aab29" stroke-width="0.5"/>
+  <text x="116" y="38" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="14" fill="#8b949e" font-weight="500">root@be-akverse — ~</text>
+  <line x1="16" y1="52" x2="784" y2="52" stroke="#30363d" stroke-width="1"/>
 
-  <!-- glow border behind terminal -->
-  <rect x="40" y="60" width="820" height="460" rx="14" fill="none" stroke="#39d98a" stroke-width="4" filter="url(#glow)" opacity="0.5">
-    <animate attributeName="stroke" values="#39d98a;#58a6ff;#c084fc;#39d98a" dur="8s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Content Scene -->
+  <g transform="translate(16, 56)">
+    <!-- Sky Background -->
+    <rect x="0" y="0" width="768" height="420" fill="url(#sky)"/>
 
-  <!-- terminal window -->
-  <rect x="40" y="60" width="820" height="460" rx="14" fill="url(#termGrad)" stroke="#39d98a" stroke-width="1.5">
-    <animate attributeName="stroke" values="#39d98a;#58a6ff;#c084fc;#39d98a" dur="8s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- title bar -->
-  <path d="M40,74 a14,14 0 0 1 14,-14 h792 a14,14 0 0 1 14,14 v22 h-820 z" fill="#0c1310"/>
-  <circle cx="66" cy="78" r="6" fill="#ff5f56"/>
-  <circle cx="88" cy="78" r="6" fill="#ffbd2e"/>
-  <circle cx="110" cy="78" r="6" fill="#27c93f"/>
-  <text x="450" y="83" text-anchor="middle" fill="#7d8b83" font-size="13">yahya@cybersecurity: ~</text>
-  <line x1="40" y1="96" x2="860" y2="96" stroke="#1c2620" stroke-width="1"/>
-
-  <!-- scanline overlay -->
-  <rect x="40" y="96" width="820" height="424" clip-path="url(#termClip)" fill="url(#scan)" opacity="0.5"/>
-
-  <!-- terminal content -->
-  <g font-size="15" clip-path="url(#termClip)">
-
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="130" fill="#7ee787">yahya@cybersecurity:~$ <tspan fill="#e6edf3">whoami</tspan></text>
+    <!-- Stars -->
+    <g fill="#c9d1d9">
+      <circle cx="100" cy="50" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="250" cy="30" r="0.8" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
+      <circle cx="500" cy="60" r="1.5" opacity="0.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="650" cy="40" r="1" opacity="0.4"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+      <circle cx="350" cy="80" r="0.8" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="5.2s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="70" r="1.3" opacity="0.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" repeatCount="indefinite"/></circle>
+      <circle cx="180" cy="20" r="1" opacity="0.4"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="550" cy="25" r="0.8" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.5s" repeatCount="indefinite"/></circle>
+      <circle cx="400" cy="45" r="1.2" opacity="0.3"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="50" cy="65" r="0.8" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="750" cy="55" r="1" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.8s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="35" r="0.8" opacity="0.3"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="620" cy="15" r="1" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="450" cy="75" r="0.8" opacity="0.3"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="85" r="1.2" opacity="0.4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
     </g>
 
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="158" fill="#c9d1d9">› yahya — cybersecurity student, professional button-masher</text>
+    <!-- Matrix Rain (very subtle, behind text) -->
+    <g font-family="monospace" font-size="11" fill="#238636" opacity="0.2">
+      <text x="50" y="0" class="rain1"><tspan x="50" dy="0">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan></text>
+      <text x="130" y="0" class="rain3" style="animation-delay:1s"><tspan x="130" dy="0">1</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">1</tspan><tspan x="130" dy="14">0</tspan></text>
+      <text x="210" y="0" class="rain2" style="animation-delay:0.3s"><tspan x="210" dy="0">1</tspan><tspan x="210" dy="14">1</tspan><tspan x="210" dy="14">0</tspan><tspan x="210" dy="14">0</tspan><tspan x="210" dy="14">1</tspan></text>
+      <text x="290" y="0" class="rain1" style="animation-delay:1.2s"><tspan x="290" dy="0">1</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">1</tspan><tspan x="290" dy="14">1</tspan><tspan x="290" dy="14">0</tspan></text>
+      <text x="370" y="0" class="rain3" style="animation-delay:1.7s"><tspan x="370" dy="0">1</tspan><tspan x="370" dy="14">1</tspan><tspan x="370" dy="14">1</tspan><tspan x="370" dy="14">0</tspan><tspan x="370" dy="14">0</tspan></text>
+      <text x="450" y="0" class="rain2" style="animation-delay:1.1s"><tspan x="450" dy="0">1</tspan><tspan x="450" dy="14">0</tspan><tspan x="450" dy="14">1</tspan><tspan x="450" dy="14">0</tspan><tspan x="450" dy="14">0</tspan></text>
+      <text x="530" y="0" class="rain1" style="animation-delay:1.4s"><tspan x="530" dy="0">1</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">0</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">1</tspan></text>
+      <text x="610" y="0" class="rain3" style="animation-delay:0.1s"><tspan x="610" dy="0">1</tspan><tspan x="610" dy="14">0</tspan><tspan x="610" dy="14">0</tspan><tspan x="610" dy="14">0</tspan><tspan x="610" dy="14">1</tspan></text>
+      <text x="690" y="0" class="rain2" style="animation-delay:0.7s"><tspan x="690" dy="0">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">0</tspan></text>
+      <text x="730" y="0" class="rain3" style="animation-delay:1.3s"><tspan x="730" dy="0">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">0</tspan><tspan x="730" dy="14">1</tspan></text>
     </g>
 
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="192" fill="#7ee787">yahya@cybersecurity:~$ <tspan fill="#e6edf3">cat about.txt</tspan></text>
-    </g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="220" fill="#c9d1d9">› breaking into systems (legally, mostly) so I can learn to</text>
-      <text x="66" y="240" fill="#c9d1d9">  lock them back up properly.</text>
-    </g>
-
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="274" fill="#7ee787">yahya@cybersecurity:~$ <tspan fill="#e6edf3">ls skills/</tspan></text>
-    </g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.2s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="302" fill="#58a6ff">python   linux   nmap   burpsuite   wireshark   git   caffeine.exe</text>
-    </g>
-
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.1s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="336" fill="#7ee787">yahya@cybersecurity:~$ <tspan fill="#e6edf3">./status.sh</tspan></text>
-    </g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.8s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="360" fill="#c9d1d9">› [<tspan fill="#7ee787">OK</tspan>] curiosity......... online</text>
-      <text x="66" y="380" fill="#c9d1d9">› [<tspan fill="#7ee787">OK</tspan>] motivation........ online</text>
-      <text x="66" y="400" fill="#c9d1d9">› [<tspan fill="#ffbd2e">WARN</tspan>] sleep schedule.... not found</text>
+    <!-- Grid Floor -->
+    <g stroke="#238636" stroke-width="0.5" opacity="0.12">
+      <line x1="384" y1="240" x2="0" y2="420" class="grid"/>
+      <line x1="384" y1="240" x2="96" y2="420" class="grid" style="animation-delay:0.2s"/>
+      <line x1="384" y1="240" x2="192" y2="420" class="grid" style="animation-delay:0.4s"/>
+      <line x1="384" y1="240" x2="288" y2="420" class="grid" style="animation-delay:0.6s"/>
+      <line x1="384" y1="240" x2="384" y2="420" class="grid" style="animation-delay:0.8s"/>
+      <line x1="384" y1="240" x2="480" y2="420" class="grid" style="animation-delay:1s"/>
+      <line x1="384" y1="240" x2="576" y2="420" class="grid" style="animation-delay:1.2s"/>
+      <line x1="384" y1="240" x2="672" y2="420" class="grid" style="animation-delay:1.4s"/>
+      <line x1="384" y1="240" x2="768" y2="420" class="grid" style="animation-delay:1.6s"/>
+      <line x1="0" y1="420" x2="768" y2="420" class="grid" style="animation-delay:0.5s"/>
+      <line x1="192" y1="370" x2="576" y2="370" class="grid" style="animation-delay:0.7s"/>
+      <line x1="288" y1="320" x2="480" y2="320" class="grid" style="animation-delay:0.9s"/>
+      <line x1="336" y1="270" x2="432" y2="270" class="grid" style="animation-delay:1.1s"/>
     </g>
 
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="6.9s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="434" fill="#7ee787">yahya@cybersecurity:~$ <tspan fill="#e6edf3">open portfolio</tspan></text>
+    <rect x="0" y="240" width="768" height="180" fill="url(#floorGrad)"/>
+
+    <!-- Building Silhouettes (very dark, background only) -->
+    <polygon points="60,340 100,340 100,160 80,140 60,160" fill="#010409"/>
+    <polygon points="110,340 170,340 170,200 150,180 130,200 130,180 110,200" fill="#010409"/>
+    <polygon points="180,340 260,340 260,120 240,100 220,120 200,100 180,120" fill="#010409"/>
+    <polygon points="270,340 330,340 330,170 310,150 290,170 290,150 270,170" fill="#010409"/>
+    <polygon points="340,340 400,340 400,190 380,170 360,190 360,170 340,190" fill="#010409"/>
+    <polygon points="410,340 480,340 480,140 460,120 440,140 440,120 410,140" fill="#010409"/>
+    <polygon points="490,340 550,340 550,210 530,190 510,210 510,190 490,210" fill="#010409"/>
+    <polygon points="560,340 620,340 620,150 600,130 580,150 580,130 560,130" fill="#010409"/>
+    <polygon points="630,340 700,340 700,180 680,160 660,180 660,160 630,160" fill="#010409"/>
+
+    <!-- Building Code Textures (subtle) -->
+    <g clip-path="url(#b1)">
+      <text class="bt1" x="60" y="160">01001 10101</text>
+      <text class="bt2" x="60" y="175">11010 01101</text>
+      <text class="bt1" x="60" y="190">00111 10011</text>
+      <text class="bt2" x="60" y="205">11100 01010</text>
+      <text class="bt1" x="60" y="220">00011 10110</text>
+      <text class="bt2" x="60" y="235">01101 11001</text>
+      <text class="bt1" x="60" y="250">10111 00101</text>
+      <text class="bt2" x="60" y="265">01011 11100</text>
+      <text class="bt1" x="60" y="280">10001 01110</text>
+      <text class="bt2" x="60" y="295">00101 10111</text>
+      <text class="bt1" x="60" y="310">11011 01001</text>
+      <text class="bt2" x="60" y="325">01110 10010</text>
     </g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="7.6s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="462" fill="#c084fc">› beakportfolio.netlify.app</text>
+    <g clip-path="url(#b3)">
+      <text class="bt1" x="180" y="120">import os</text>
+      <text class="bt2" x="180" y="135">def hack():</text>
+      <text class="bt1" x="180" y="150">  return</text>
+      <text class="bt2" x="180" y="165">  True</text>
+      <text class="bt1" x="180" y="180">class Sec:</text>
+      <text class="bt2" x="180" y="195">  pass</text>
+      <text class="bt1" x="180" y="210">if __name__</text>
+      <text class="bt2" x="180" y="225">  == "__main__"</text>
+      <text class="bt1" x="180" y="240">  main()</text>
+      <text class="bt2" x="180" y="255"># TODO:</text>
+      <text class="bt1" x="180" y="270"># fix bug</text>
+      <text class="bt2" x="180" y="285"># in prod</text>
+      <text class="bt1" x="180" y="300">sudo rm -rf</text>
+      <text class="bt2" x="180" y="315">  / --no-preserve</text>
+      <text class="bt1" x="180" y="330">echo "pwned"</text>
+    </g>
+    <g clip-path="url(#b6)">
+      <text class="bt2" x="410" y="140">{</text>
+      <text class="bt1" x="410" y="155">  "user":</text>
+      <text class="bt2" x="410" y="170">    "root",</text>
+      <text class="bt1" x="410" y="185">  "access":</text>
+      <text class="bt2" x="410" y="200">    true,</text>
+      <text class="bt1" x="410" y="215">  "flag":</text>
+      <text class="bt2" x="410" y="230">    "CTF{...}"</text>
+      <text class="bt1" x="410" y="245">}</text>
+      <text class="bt2" x="410" y="260">JWT: eyJ...</text>
+      <text class="bt1" x="410" y="275">  .eyJhbG...</text>
+      <text class="bt2" x="410" y="290">  .SflKxw...</text>
+      <text class="bt1" x="410" y="305">API_KEY=</text>
+      <text class="bt2" x="410" y="320">  sk-live-</text>
+    </g>
+    <g clip-path="url(#b9)">
+      <text class="bt1" x="630" y="180"># BeakVerse</text>
+      <text class="bt2" x="630" y="195"># --------</text>
+      <text class="bt1" x="630" y="210"># Offensive</text>
+      <text class="bt2" x="630" y="225"># Security</text>
+      <text class="bt1" x="630" y="240"># Student</text>
+      <text class="bt2" x="630" y="255"># --------</text>
+      <text class="bt1" x="630" y="270"># Code</text>
+      <text class="bt2" x="630" y="285"># Break</text>
+      <text class="bt1" x="630" y="300"># Build</text>
+      <text class="bt2" x="630" y="315"># --------</text>
+      <text class="bt1" x="630" y="330"># 15 y/o</text>
     </g>
 
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="8.5s" dur="0.3s" fill="freeze"/>
-      <text x="66" y="496" fill="#7ee787">yahya@cybersecurity:~$ <tspan fill="#e6edf3">_</tspan></text>
+    <!-- Building Window Lights (subtle orange) -->
+    <g fill="#f0883e">
+      <rect x="70" y="170" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></rect>
+      <rect x="85" y="190" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="75" y="220" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/></rect>
+      <rect x="200" y="130" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></rect>
+      <rect x="220" y="150" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/></rect>
+      <rect x="210" y="180" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="230" y="200" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></rect>
+      <rect x="430" y="150" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></rect>
+      <rect x="450" y="170" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></rect>
+      <rect x="440" y="200" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite"/></rect>
+      <rect x="460" y="220" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></rect>
+      <rect x="650" y="190" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></rect>
+      <rect x="670" y="210" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.7s" repeatCount="indefinite"/></rect>
+      <rect x="660" y="240" width="3" height="3" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" repeatCount="indefinite"/></rect>
     </g>
 
-    <!-- blinking cursor -->
-    <rect x="204" y="483" width="9" height="16" fill="#7ee787" opacity="0">
-      <animate attributeName="opacity" begin="8.9s" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
+    <!-- Decorative horizontal accent line -->
+    <line x1="16" y1="72" x2="752" y2="72" stroke="#30363d" stroke-width="1"/>
+    <line x1="16" y1="72" x2="200" y2="72" stroke="#238636" stroke-width="1" class="pulse-line"/>
+
+    <!-- MAIN TERMINAL CONTENT -->
+    <g font-family="'SF Mono', 'Fira Code', 'Courier New', monospace">
+      <!-- Prompt line -->
+      <text x="24" y="100" font-size="15" fill="#8b949e">
+        <tspan fill="#3fb950">$</tspan>
+        <tspan dx="8" fill="#c9d1d9">sudo whoami</tspan>
+      </text>
+
+      <!-- Response: root -->
+      <text x="24" y="122" font-size="15" fill="#3fb950" filter="url(#textGlow)">root</text>
+
+      <!-- Spacer -->
+      <!-- Bio line -->
+      <text x="24" y="158" font-size="14" fill="#b4bcca" opacity="0.95">
+        A 15 year old CyberSec student building projects to earn my way around the world
+      </text>
+
+      <!-- Decorative separator -->
+      <line x1="24" y1="172" x2="300" y2="172" stroke="#30363d" stroke-width="1"/>
+      <line x1="24" y1="172" x2="80" y2="172" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+
+      <!-- Loading toolkit -->
+      <text x="24" y="198" font-size="14" fill="#58a6ff" filter="url(#blueGlow)">
+        &gt; Loading toolkit...
+      </text>
+      <text x="24" y="220" font-size="14" fill="#3fb950">
+        <tspan>[████████████████</tspan><tspan fill="#30363d">░░</tspan><tspan fill="#3fb950">] 87%</tspan>
+      </text>
+      <text x="24" y="242" font-size="13" fill="#8b949e">
+        Languages: <tspan fill="#c9d1d9">Python, C, HTML, CSS, JavaScript</tspan>
+      </text>
+      <text x="24" y="262" font-size="13" fill="#8b949e">
+        Focus: <tspan fill="#c9d1d9">Building | Coding | Breaking</tspan>
+      </text>
+
+      <!-- Decorative separator -->
+      <line x1="24" y1="278" x2="300" y2="278" stroke="#30363d" stroke-width="1"/>
+      <line x1="24" y1="278" x2="80" y2="278" stroke="#f0883e" stroke-width="1" opacity="0.6"/>
+
+      <!-- Active missions -->
+      <text x="24" y="304" font-size="14" fill="#58a6ff" filter="url(#blueGlow)">
+        &gt; Active missions:
+      </text>
+      <text x="24" y="326" font-size="13" fill="#c9d1d9">
+        <tspan fill="#3fb950">  ├──</tspan> Attend one hackathon
+      </text>
+      <text x="24" y="346" font-size="13" fill="#c9d1d9">
+        <tspan fill="#3fb950">  ├──</tspan> Travel to a foreign country (for free)
+      </text>
+      <text x="24" y="366" font-size="13" fill="#c9d1d9">
+        <tspan fill="#3fb950">  └──</tspan> Become a Red Teamer!
+      </text>
+
+      <!-- Blinking cursor at end -->
+      <rect x="24" y="390" width="8" height="16" class="cursor"/>
+    </g>
+
+    <!-- Scanlines (subtle) -->
+    <g stroke="#238636" stroke-width="0.5" opacity="0.04">
+      <line x1="0" y1="0" x2="768" y2="0" class="scanline"/>
+      <line x1="0" y1="0" x2="768" y2="0" class="scanline" style="animation-delay:3.3s"/>
+      <line x1="0" y1="0" x2="768" y2="0" class="scanline" style="animation-delay:6.6s"/>
+    </g>
+
+    <!-- Vignette overlay -->
+    <rect x="0" y="0" width="768" height="420" fill="url(#vignette)" pointer-events="none"/>
+
+    <!-- Ground line -->
+    <line x1="0" y1="420" x2="768" y2="420" stroke="#238636" stroke-width="1" opacity="0.25"/>
+
+    <!-- Bottom subtle accent -->
+    <rect x="0" y="420" width="768" height="28" fill="#0d1117" opacity="0.8"/>
+    <line x1="0" y1="420" x2="768" y2="420" stroke="#30363d" stroke-width="1"/>
+    <text x="24" y="440" font-family="monospace" font-size="11" fill="#484f58">
+      be-akverse v1.0.0 — <tspan fill="#3fb950">●</tspan> system operational
+    </text>
 
   </g>
 </svg>
