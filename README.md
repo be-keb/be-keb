@@ -77,7 +77,7 @@ A tool that converts live camera feed into ASCII Art! (downloadable in .txt form
 <b>
 
 
-<a href="https://github.com/be-akverse/conspiracy-index">
+<a href="https://github.com/be-keb/conspiracy-index">
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
@@ -98,7 +98,7 @@ A list of some conspiracy theories you can edit and add more to!
 <b>
 
 
-<a href="https://github.com/be-akverse/atbash.git">
+<a href="https://github.com/be-keb/atbash.git">
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
@@ -119,7 +119,7 @@ A custom font that converts every written word into Atbash!
 <b>
 
 
-<a href="https://github.com/be-akverse/LeetSpeak.git">
+<a href="https://github.com/be-keb/LeetSpeak.git">
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
