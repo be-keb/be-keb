@@ -150,8 +150,9 @@ A custom font that converts any written word into leetspeak in real time!
 Trying to participate in hackathons to maybe get a chance to travel the world for free ;)
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=53714&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" width="500">
+  <img src="https://heatmap.shymike.dev/?id=53714&timezone=UTC">
 </p>
+
 
 
 <div align="center">
