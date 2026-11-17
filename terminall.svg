@@ -317,11 +317,6 @@
 
       <text x="24" y="322" font-size="13" fill="#8b949e">
         <tspan fill="#3fb950">yahya@be-keb:~$</tspan>
-        <tspan dx="8" fill="#c9d1d9">./next_event.sh</tspan>
-      </text>
-      <text x="24" y="338" font-size="12.5" fill="#ffbd2e">
-        › [UPCOMING] NASCON hackathon 
-      </text>
 
       <text x="24" y="356" font-size="13" fill="#8b949e">
         <tspan fill="#3fb950">yahya@be-keb:~$</tspan>
