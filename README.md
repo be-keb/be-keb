@@ -4,10 +4,6 @@
   <img src="terminall.svg" width="100%" alt="be-keb terminal"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Offensive+Cyber+Security+Enthusiast;Building+Things+That+Break+Things" alt="Typing Animation" />
-</div>
-
-
 <h2 align="center">Projects</h2>
 
 <div align="center">
@@ -22,10 +18,6 @@
 <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
 My Portfolio :)
@@ -42,9 +34,6 @@ My Portfolio :)
 </a>
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
 A collection of cybersecurity resources for BLUE AND RED TEAM!
@@ -63,10 +52,6 @@ A collection of cybersecurity resources for BLUE AND RED TEAM!
 </a>
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
 
 A tool that converts live camera feed into ASCII Art! (downloadable in .txt form)
 
@@ -81,10 +66,6 @@ A tool that converts live camera feed into ASCII Art! (downloadable in .txt form
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
 A list of some conspiracy theories you can edit and add more to!
@@ -103,12 +84,6 @@ A list of some conspiracy theories you can edit and add more to!
 </a>
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Calligrapher-8B5CF6?style=flat-square&logo=font-awesome&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-
 
 A custom font that converts every written word into Atbash!
 
@@ -123,12 +98,6 @@ A custom font that converts every written word into Atbash!
 <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white" /><br>
 </a>
 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Calligrapher-8B5CF6?style=flat-square&logo=font-awesome&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
 A custom font that converts any written word into leetspeak in real time!
 
